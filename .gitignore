@@ -1,0 +1,57 @@
+# Windows default autosave extension
+*.asv
+
+# OSX / *nix default autosave extension
+*.m~
+
+# Compiled MEX binaries (all platforms)
+*.mex*
+
+# Packaged app and toolbox files
+*.mlappinstall
+*.mltbx
+
+# Generated helpsearch folders
+helpsearch*/
+
+# Simulink code generation folders
+slprj/
+sccprj/
+
+# Matlab code generation folders
+codegen/
+
+# Simulink autosave extension
+*.autosave
+
+# Simulink cache files
+*.slxc
+
+# Octave session info
+octave-workspace
+
+aaa.m
+aaaaaaaaaa.m
+codigo_base_novo.m
+Fibonacci.m
+lab4_senoides.m
+P1.m
+Q1.m
+Q2.m
+Q3.m
+Q4.m
+Q5.m
+Q6.m
+Q7.m
+roover.m
+teste.m
+som.m
+teste.m
+teste_audio.m
+Teste123.m4a
+testestes.m
+Espectro_Senoide.m
+64PSK.fig
+Plot_Ber_para_M.m
+Espectro_func_Modulate.m
+BER_vs_SNR.m
